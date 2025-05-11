@@ -1,0 +1,83 @@
+.projectsp{
+
+    margin-top: -45%;
+    margin-left: 0%;
+}
+.buttonsp{
+    margin-left: -1.25rem;
+}
+#one{
+    position: absolute;
+    margin-top: 12.5rem;
+    margin-left: 25%;
+    height: 12.5rem;
+    width: 9.375rem;
+    border: none;
+    border-top-right-radius: 1.25rem;
+    border-bottom-left-radius: 1.25rem;
+    background-color: #7E90B6;
+    box-shadow: 3px 3px 3px 3px #999;
+}
+#one img{
+    position: absolute;
+    margin-left: -4.388rem;
+    margin-top: -4.063rem;
+    height: 9.375rem;
+    width: 8.75rem;
+}
+#two{
+    position: absolute;
+    margin-top: 12.5rem;
+    margin-left: 50%;
+    height: 12.5rem;
+    width: 9.375rem;
+    border: none;
+    border-top-right-radius: 1.25rem;
+    border-bottom-left-radius: 1.25rem;
+    background-color: #7E90B6;
+    box-shadow: 3px 3px 3px 3px #999;
+}
+#two img{
+    position: absolute;
+    margin-left: -4.388rem;
+    margin-top: -4.063rem;
+    height: 9.375rem;
+    width: 8.75rem;
+}
+#three{
+    position: absolute;
+    margin-top: 12.5rem;
+    margin-left: 75%;
+    height: 12.5rem;
+    width: 9.375rem;
+    border: none;
+    border-top-right-radius: 1.25rem;
+    border-bottom-left-radius: 1.25rem;
+    background-color: #7E90B6;
+    box-shadow: 3px 3px 3px 3px #999;
+}
+#three img{
+    position: absolute;
+    margin-left: -4.388rem;
+    margin-top: -4.063rem;
+    height: 9.375rem;
+    width: 8.75rem;
+}
+#tone{
+    position: absolute;
+    margin-left: 24.5%;
+    margin-top: 33%;
+    color: black;
+}
+#ttwo{
+    position: absolute;
+    margin-left: 49.5%;
+    margin-top: 33%;
+    color: black;
+}
+#tthree{
+    position: absolute;
+    margin-left: 74.5%;
+    margin-top: 33%;
+    color: black;
+}

@@ -1,0 +1,125 @@
+.layout{
+    padding: 0;
+    margin: 0;
+    left: 0;
+    box-sizing: border-box;
+}
+.parent-box{
+    height: 37.2em;
+    width: 5.4em;
+    left: 2em;
+    background-color: #233B6E;    
+    display: inline-block;
+    vertical-align: middle;
+}
+.icon-box{
+    top: 13%;
+    left: -5%;
+    position: relative;
+}
+.icons{
+    height: 9%;
+    width: 72%;
+    background-color: #233B6E;
+    border-radius: 50%;
+    margin: 1.5em 0em 1em 0.5em;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 3px 2px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-left: 18%;
+}
+.icons:hover::after{
+    color: white;
+    font-size: 2em;
+    position: absolute; 
+    left: 99%;
+    height: max-content;
+    display: block !important;
+    width: max-content;
+    background-color: #233B6E;
+    padding: .3em .8em .3em .8em;
+}
+#icon-1{
+    background-image: url("home.png");
+    width: 60px;
+    height: 60px;
+}
+#icon-2{
+    background-image: url('tasks.png');
+    width: 60px;
+    height: 60px;
+}
+#icon-3{
+    background-image: url('projects.png');
+    width: 60px;
+    height: 60px;
+}
+#icon-4{
+    background-image: url('my_mentor.png');
+    width: 60px;
+    height: 60px;
+}
+#icon-5{
+    background-image: url('groups.png');
+    width: 60px;
+    height: 60px;
+}
+#icon-6{
+    background-image: url('logout.png');
+    width: 60px;
+    height: 60px;
+    margin-top: 0em;
+}
+#icon-1:hover::after{
+
+    content: "Home";
+    top: 0%;    
+}
+#icon-2:hover::after{
+    content: "Tasks\ASubmissions";
+    top: 18%;
+    white-space: pre;
+}
+#icon-3:hover::after{
+    content: "Projects";
+    top: 36%;
+}
+#icon-4:hover::after{   
+    content: "Mymentor";
+    top: 54%;
+}
+#icon-5:hover::after{   
+    content: "Groups";
+    top: 71%;
+}
+#icon-6:hover::after{
+    content: "Logout";
+    top: 88%;
+}
+.topbox{
+position: absolute;
+width: 100%;
+height: 12%; 
+background-color: #88B0D7;
+top: 0%;
+left: 0%;
+display: flex;  
+justify-content: space-between;
+}
+.npicons{
+    display: flex;
+    justify-content: space-between;
+}
+.np{
+    height: 70%;
+    margin: 1em 3em 0em 0em;
+    cursor: pointer;
+}
+.logo1{
+    height: 90%;
+    width: 100%;
+    padding: 0.5em 0em 0em 4em;
+}

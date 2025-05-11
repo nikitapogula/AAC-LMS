@@ -1,0 +1,69 @@
+.mentor{
+    margin-top: -48%;
+    margin-left: 11%;
+}
+#picture1{
+    height: 7.5rem;
+    width: 6.25rem;
+    border-radius: 1.875rem;
+    background-color: #757575;
+    margin-left: 15%;
+    margin-top: 9.375rem;
+    position: absolute;
+}
+#picture2{
+    height: 7.5rem;
+    width: 6.25rem;
+    border-radius: 1.875rem;
+    background-color: #757575;
+    margin-left: 55%;
+    margin-top: 9.375rem;
+    position: absolute;
+}
+#left{
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 21.875rem;
+}
+#right{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 21.875rem;
+}
+#headr{
+    height: 2.188rem;
+    width: 9.375rem;
+    background-color: #A4C4D2;
+    margin-bottom: 1.875rem;
+    margin-top: 0.625rem;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    border-radius: 0.625rem;
+    padding-top: 0.8rem;
+    box-shadow: 0 3px #9e9c9c;
+}
+#headl{
+    height: 2.188rem;
+    width: 9.375rem;
+    background-color: #A4C4D2;
+    margin-bottom: 1.875rem;
+    margin-top: 0.625rem;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 0.625rem;
+    box-shadow: 0 3px #9e9c9c;
+}
+#lcolon{
+    position: absolute;
+    margin-left: 23%;
+    margin-top: 22.5rem;
+}
+#rcolon{
+    position: absolute;
+    margin-left: 63%;
+    margin-top: 22.5rem;
+}
+#colon{
+    padding-bottom: 2.2rem;
+}
